@@ -13,6 +13,10 @@ There are no Tutorials on the Scripts as of right now (altough I showed some of 
 
 # Changelog:
 
+###### 28.04.2022 - Initial Github Release | V1.0.1.0
+- Added the following Scripts:
+- - METools | Set Terrain Height Interpolated
+
 ###### 28.04.2022 - Initial Github Release | V1.0.0.0
 - Added the following Scripts:
 - - METools | Copy Material
